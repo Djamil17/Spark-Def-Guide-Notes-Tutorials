@@ -1,2 +1,2 @@
 # Spark-Def_Guide-Notes-Tutorials
-summaries and notes on the books "Spark the Definitive Guide" 
+Summaries and notes on the book "Spark the Definitive Guide" by Bill Chambers and Matei Zaharia. 
